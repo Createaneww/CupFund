@@ -3,7 +3,6 @@
 CupFund is a Patreon-inspired creator support platform that allows fans to contribute financially to creators through one-time or recurring payments.  
 Built with **Next.js**, **Node.js**, and **MongoDB**, CupFund integrates **Razorpay** for secure and seamless payments.
 
----
 
 ## 📌 Table of Contents
 - [Features](#-features)
